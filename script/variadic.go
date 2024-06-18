@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"os"
 
-	python "github.com/go-python/cpy3"
+	python "github.com/zy-zzf2000/cpy3"
 )
 
 var (
